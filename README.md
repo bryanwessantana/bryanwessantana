@@ -1,12 +1,12 @@
-# Hi, I'm Bryan Wes Santana 👋
+# Hi, I'm Bryan 👋
 
 Welcome to my GitHub! I'm a passionate **Software Development student** currently pursuing my bachelor's degree at [BYU-Idaho](https://www.byui.edu/), and I'm always hungry to learn more and tackle new challenges. I also study frontend development at DIO and work as an independent **Frontend Developer**, helping companies in my city build their online presence.
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Python, HTML, CSS, JavaScript, C#
+- **Languages:** Python, C#, HTML, CSS, JavaScript, MySQL
 - **Frameworks & Libraries:** React, Node.js
-- **Other Tools:** Git, GitHub
+- **Other Tools:** Git & GitHub, Netlify
 - **Soft Skills:** Proactive problem-solver, good communicator, creative thinker
 
 ## 🌟 What I'm Working On
@@ -25,11 +25,9 @@ Check out some of the projects I’m proud of:
 
 ## 💡 About Me
 
-- 📍 Based in Brazil
+- 📍 Live in Brazil
 - 🎸 Guitar player, hiking enthusiast, and avid reader
 - 🏫 Lifelong learner always seeking new skills and knowledge
 - 🌱 Currently improving my frontend skills and building practical, user-friendly web apps
-
-> “Proactive, passionate, and dedicated to solving real-world problems through code.”
 
 Feel free to check out my repositories below and reach out if you’d like to connect or collaborate!
