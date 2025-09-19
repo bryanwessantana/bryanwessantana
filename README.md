@@ -30,12 +30,6 @@ Check out some of the projects I’m proud of:
 - 🏫 Lifelong learner always seeking new skills and knowledge
 - 🌱 Currently improving my frontend skills and building practical, user-friendly web apps
 
-## 📬 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/bryansantana/)
-
----
-
 > “Proactive, passionate, and dedicated to solving real-world problems through code.”
 
 Feel free to check out my repositories below and reach out if you’d like to connect or collaborate!
