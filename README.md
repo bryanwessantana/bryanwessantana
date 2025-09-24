@@ -42,10 +42,10 @@
 
 ## 🚀 Projetos em destaque
 
-- [personalprojects](https://github.com/bryanwessantana/personalprojects)  
-- [wdd330](https://github.com/bryanwessantana/wdd330)  
 - [cse111](https://github.com/bryanwessantana/cse111)  
 - [cse210](https://github.com/bryanwessantana/cse210) 
+- [wdd330](https://github.com/bryanwessantana/wdd330)  
+- [personalprojects](https://github.com/bryanwessantana/personalprojects)  
 
 ---
 
@@ -75,8 +75,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bryanwessantana&theme=radical&hide_border=true"/>
 </p>
