@@ -3,7 +3,7 @@
 🎓 Estudante de **Desenvolvimento de Software** na [BYU-Idaho](https://www.byui.edu/), apaixonado por tecnologia e sempre em busca de novos desafios.  
 💻 Também estudo **Frontend Development** na DIO e atuo como **Desenvolvedor Frontend independente**, ajudando empresas da minha cidade a criarem sua presença online.  
 
-> *"The best way to predict the future is to invent it."* – Alan Kay  
+> *"A melhor maneira de prever o futuro é inventá-lo."* – Alan Kay  
 
 ---
 
@@ -44,12 +44,12 @@
 
 ## 🚀 Projetos em destaque
 
-- [cse110](https://github.com/bryanwessantana/cse110) - Python
-- [cse111](https://github.com/bryanwessantana/cse111) - Python
-- [cse210](https://github.com/bryanwessantana/cse210) - C#
-- [wdd231](https://github.com/bryanwessantana/wdd231) - HTML/CSS, JavaScript (ES Modules) e API
-- [wdd330](https://github.com/bryanwessantana/wdd330) - HTML/CSS e JavaScript
-- [personalprojects](https://github.com/bryanwessantana/personalprojects) - Full Stack (Projetos pessoais front e backend)
+- [CSE110](https://github.com/bryanwessantana/cse110) - Python
+- [CSE111](https://github.com/bryanwessantana/cse111) - Python
+- [CSE210](https://github.com/bryanwessantana/cse210) - C#
+- [WDD231](https://github.com/bryanwessantana/wdd231) - HTML/CSS, JavaScript (ES Modules) e API
+- [WDD330](https://github.com/bryanwessantana/wdd330) - HTML/CSS e JavaScript
+- [Personal Projects](https://github.com/bryanwessantana/personalprojects) - Full Stack (Projetos pessoais front e backend)
 
 ---
 
