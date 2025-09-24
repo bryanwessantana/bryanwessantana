@@ -9,10 +9,10 @@
 
 ## ⚡ Habilidades
 
-- 📝 **Linguagens:** Python, C#, HTML, CSS, JavaScript, MySQL  
-- ⚛️ **Frameworks & Libraries:** React, Node.js  
-- 🛠️ **Ferramentas:** Git & GitHub, Netlify  
-- 💡 **Soft Skills:** Resolução de problemas, comunicação, pensamento criativo
+- 📝 **Linguagens:** Python, C#, HTML, CSS, JavaScript, MySQL;
+- ⚛️ **Frameworks & Libraries:** React, Node.js;
+- 🛠️ **Ferramentas:** Git & GitHub, Netlify;
+- 💡 **Soft Skills:** Resolução de problemas, comunicação, pensamento criativo;
 
 ---
 
@@ -35,10 +35,10 @@
 
 ## 📚 Atualmente estou estudando:
 
-💻 Desenvolvimento Web: HTML/CSS, JavaScript
-⚛️ Frameworks de JS: React
-🖥️ Backend e APIs: Node.js
-🗂️ Boas práticas: Git, GitHub, Netlify
+- 💻 Desenvolvimento Web: HTML/CSS, JavaScript;
+- ⚛️ Frameworks de JS: React;
+- 🖥️ Backend e APIs: Node.js;
+- 🗂️ Boas práticas: Git, GitHub, Netlify;
 
 ---
 
