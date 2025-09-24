@@ -81,5 +81,8 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=radical" alt="Git Hub Status"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanwessantana&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanwessantana&theme=radical" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=bryanwessantana&theme=radical&area=true" alt="Contribution Graph" />
 </p>
