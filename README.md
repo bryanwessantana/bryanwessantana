@@ -65,10 +65,10 @@
 ## 📬 Como me encontrar:
 
 <p align="center">
-  <a href="https://www.instagram.com/bryan._santana" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/bryan._santana" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/bryansantana/" target="blank">
+  <a href="https://www.linkedin.com/in/bryansantana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bryanwessantana@gmail.com">
