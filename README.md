@@ -49,7 +49,7 @@
 - [CSE210](https://github.com/bryanwessantana/cse210) - C#
 - [WDD231](https://github.com/bryanwessantana/wdd231) - HTML/CSS, JavaScript (ES Modules) e API
 - [WDD330](https://github.com/bryanwessantana/wdd330) - HTML/CSS e JavaScript
-- [Personal Projects](https://github.com/bryanwessantana/personalprojects) - Full Stack (Projetos pessoais front e backend)
+- [Personal Projects](https://github.com/bryanwessantana/personalprojects) - Projetos pessoais em diversas linguagens para praticar a portabilidade entre liguagens de programação
 
 ---
 
