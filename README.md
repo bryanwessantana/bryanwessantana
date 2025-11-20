@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Bryan  
+# 👋 Olá, me chamo Bryan 
 
-🎓 Estudante de **Desenvolvimento de Software** na [BYU-Idaho](https://www.byui.edu/), apaixonado por tecnologia e sempre em busca de novos desafios.  
-💻 Também estudo **Frontend Development** na DIO e atuo como **Desenvolvedor Frontend independente**, ajudando empresas da minha cidade a criarem sua presença online.  
+🎓 Sou estudante de **Desenvolvimento de Software** na [BYU-Idaho](https://www.byui.edu/), apaixonado por tecnologia e sempre em busca de novos desafios.  
+💻 Também estudo **Frontend e Backend Development** na [DIO](https://www.dio.me/) e atuo como **Desenvolvedor Full Stack**, ajudando empresas da minha cidade a criarem sua presença online.  
 
 > *"A melhor maneira de prever o futuro é inventá-lo."* – Alan Kay  
 
@@ -9,7 +9,7 @@
 
 ## ⚡ Habilidades
 
-- 📝 **Linguagens:** Python, C#, HTML, CSS, JavaScript, MySQL;
+- 📝 **Linguagens:** Python, C#, HTML/CSS, JavaScript, EJS, MySQL;
 - ⚛️ **Frameworks & Libraries:** React, Node.js;
 - 🛠️ **Ferramentas:** Git & GitHub, Netlify;
 - 💡 **Soft Skills:** Resolução de problemas, comunicação, pensamento criativo;
@@ -33,9 +33,9 @@
 
 ---
 
-## 📚 Atualmente estou estudando:
+## 📚 Atualmente estudando:
 
-- 💻 Desenvolvimento Web: HTML/CSS, JavaScript;
+- 💻 Desenvolvimento Web: HTML/CSS, JavaScript, EJS, Python;
 - ⚛️ Frameworks de JS: React;
 - 🖥️ Backend e APIs: Node.js;
 - 🗂️ Boas práticas: Git, GitHub, Netlify;
