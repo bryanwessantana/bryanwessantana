@@ -1,7 +1,7 @@
 # 👋 Hello, my name is Bryan 
 
-🎓 I am a **Software Development** student at [BYU-Idaho](https://www.byui.edu/), passionate about technology and always looking for new challenges. 
-💻 I also study **Frontend and Backend Development** at [DIO](https://www.dio.me/) and work as a **Full Stack Developer**, helping companies in my city create their online presence. 
+🎓 I am a **Software Development** student at [BYU-Idaho](https://www.byui.edu/), passionate about technology and always looking for new challenges. <br>
+💻 I also study **Frontend and Backend Development** at [DIO](https://www.dio.me/) and work as a **Full Stack Developer**. 
 
 > *"The best way to predict the future is to invent it."* – Alan Kay 
 
@@ -9,12 +9,12 @@
 
 ## ⚡ Skills
 
- 💻 - **Programming Languages:** Python, C#, JavaScript, TypeScript.
- 🌐 - **Frontend Development:** HTML5, CSS3, Sass, Tailwind CSS, React, Angular.
- ⚙️ - **Backend Development:** Node.js, Django, EJS (Templating).
- 💾 - **Databases:** SQL, MySQL, PostgreSQL, MongoDB.
- 🛠️ - **Tools & Platforms:** Git, GitHub, Netlify.
- 💡 - **Soft Skills:** Problem-solving, communication, creative thinking.
+ 💻 - **Programming Languages:** Python, C#, JavaScript, TypeScript. <br>
+ 🌐 - **Frontend Development:** HTML5, CSS3, Sass, Tailwind CSS, React, Angular. <br>
+ ⚙️ - **Backend Development:** Node.js, Django, EJS (Templating). <br>
+ 💾 - **Databases:** SQL, MySQL, PostgreSQL, MongoDB. <br>
+ 🛠️ - **Tools & Platforms:** Git, GitHub, Netlify. <br>
+ 💡 - **Soft Skills:** Problem-solving, communication, creative thinking. <br>
 
 ---
 
