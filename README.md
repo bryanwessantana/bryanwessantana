@@ -9,12 +9,12 @@
 
 ## ⚡ Habilidades
 
-  💻 - **Linguagens de Programação:** Python, C#, JavaScript, TypeScript.
-  🌐 - **Desenvolvimento Frontend:** HTML5, CSS3, Sass, Tailwind CSS, React, Angular.
-  ⚙️ - **Desenvolvimento Backend:** Node.js, Django, EJS (Templating).
-  💾 - **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB.
-  🛠️ - **Ferramentas & Plataformas:** Git, GitHub, Netlify.
-  💡 - **Soft Skills:** Resolução de problemas, comunicação, pensamento criativo.
+  💻 - **Linguagens de Programação:** Python, C#, JavaScript, TypeScript.<br>
+  🌐 - **Desenvolvimento Frontend:** HTML5, CSS3, Sass, Tailwind CSS, React, Angular.<br>
+  ⚙️ - **Desenvolvimento Backend:** Node.js, Django, EJS (Templating).<br>
+  💾 - **Banco de Dados:** SQL, MySQL, PostgreSQL, MongoDB.<br>
+  🛠️ - **Ferramentas & Plataformas:** Git, GitHub, Netlify.<br>
+  💡 - **Soft Skills:** Resolução de problemas, comunicação, pensamento criativo.<br>
 
 ---
 
