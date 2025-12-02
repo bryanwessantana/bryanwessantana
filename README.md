@@ -88,9 +88,9 @@
 ## 📊 GitHub Status
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=radical"
     alt="GitHub Stats" style="height: 165px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanwessantana&layout=compact&theme=radical" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanwessantana&layout=compact&theme=radical"
     alt="Top Languages" style="height: 165px;"/>
 </p>
 
