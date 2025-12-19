@@ -1,7 +1,7 @@
 # 👋 Hello, my name is Bryan 
 
 🎓 I am a **Software Development** student at [BYU-Idaho](https://www.byui.edu/). I am also studying Frontend and Backend Development at [DIO](https://www.dio.me/). <br>
-💻 I currently work as a **Full Stack Developer** and **IT Analyst** at [Frontall USA]](https://www.frontallusa.com). <br>
+💻 I currently work as a **Full Stack Developer** and **IT Analyst** at [Frontall USA](https://www.frontallusa.com). <br>
 
 > *"The best way to predict the future is to invent it."* – Alan Kay 
 
