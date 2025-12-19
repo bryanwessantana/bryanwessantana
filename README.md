@@ -9,12 +9,12 @@
 
 ## ⚡ Skills <br>
 
-  💻 - Programming Languages: Python, C#, JavaScript, TypeScript <br>
-  🌐 - Frontend Development: HTML5, CSS3, Sass, Tailwind CSS, React, Angular <br>
-  ⚙️ - Backend Development: Node.js, Django, EJS (Templating) <br>
-  💾 - Databases: SQL, MySQL, PostgreSQL, MongoDB <br>
-  ☁️ - Cloud & DevOps: Git, GitHub, Docker, AWS, Vercel, Netlify, Fly.io, Firebase <br>
-  💡 - Soft Skills: Problem-solving, communication, creative thinking <br>
+💻 - Programming Languages: Python, C#, JavaScript, TypeScript <br>
+🌐 - Frontend Development: HTML5, CSS3, Sass, Tailwind CSS, React, Angular <br>
+⚙️ - Backend Development: Node.js, Django, EJS (Templating) <br>
+💾 - Databases: SQL, MySQL, PostgreSQL, MongoDB <br>
+☁️ - Cloud & DevOps: Git, GitHub, Docker, AWS, Vercel, Netlify, Fly.io, Firebase <br>
+💡 - Soft Skills: Problem-solving, communication, creative thinking <br>
 
 ---
 
