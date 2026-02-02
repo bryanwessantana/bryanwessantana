@@ -12,14 +12,14 @@ I am a developer and IT specialist focused on the synergy between **Software Eng
 
 ## 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
+| Category | Badges |
 | --- | --- |
-| **Programming** | Python, C#, JavaScript, TypeScript |
-| **Frontend** | React, Angular, Tailwind CSS, Sass, HTML5, CSS3 |
-| **Backend** | Node.js, Django, EJS (Templating) |
-| **Automation/RPA** | Python Scripts, Intelligent Workflows, Task Automation |
-| **Databases** | SQL, MySQL, PostgreSQL, MongoDB |
-| **Cloud & DevOps** | AWS, Docker, Git, GitHub, Vercel, Firebase |
+| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-A91E50?style=flat-square&logo=javascript&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/SQL-3079A6?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> |
+| **Cloud & DevOps**| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> |
+| **Automation** | <img src="https://img.shields.io/badge/RPA-Intelligent_Automation-blue?style=flat-square&logo=robot&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/> |
 
 ---
 
@@ -33,10 +33,6 @@ I am a developer and IT specialist focused on the synergy between **Software Eng
 ### 🐍 Software Engineering Logic
 - **[Object-Oriented Programming (C#)](https://github.com/bryanwessantana/cse210)** (CSE210) - Focus on classes, inheritance, and clean architecture.
 - **[Functional Programming (Python)](https://github.com/bryanwessantana/cse111)** (CSE111) - Developing complex logic using modular functions.
-- **[Programming Building Blocks](https://github.com/bryanwessantana/cse110)** (CSE110) - Foundation in algorithm logic and Python syntax.
-
-### 🧪 Innovation & Portability
-- **[Personal Projects Portfolio](https://github.com/bryanwessantana/personalprojects)** - Exploring code portability and testing new frameworks.
 
 ---
 
