@@ -1,6 +1,6 @@
-# Hi 👋, I'm Bryan Wesley Santana
+# Hi, I'm Bryan Santana👋
 
-🚀 **IT Development Specialist** | Software Architecture & Automation Specialist <br />
+**IT Development Specialist** | Software Architecture & Automation Specialist <br />
 I build **scalable web applications**, **intelligent automations**, and **secure IT environments**. <br />
 I’m deeply focused on **clean code**, **operational efficiency**, and **business-driven software solutions**.
 
