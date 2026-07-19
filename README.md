@@ -63,6 +63,11 @@ export default SoftwareEngineer;
 bryan@github ~ $ ./stats.sh
 ```
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="Bryan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanwessantana&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="180" />
+</div>
+
 ```bash
 bryan@github ~ $ ls ~/featured-projects
 ```
@@ -159,5 +164,11 @@ bryan@github ~ $ ls ~/featured-projects
 ```bash
 bryan@github ~ $ ./links.sh
 ```
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansantana/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanwessantana@gmail.com)
+
+</div>
 
 > Building complex systems one precise patch at a time
