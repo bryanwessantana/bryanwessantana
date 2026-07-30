@@ -60,15 +60,6 @@ export default SoftwareEngineer;
 ```
 
 ```bash
-bryan@github ~ $ ./stats.sh
-```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanwessantana&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="Bryan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanwessantana&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="180" />
-</div>
-
-```bash
 bryan@github ~ $ ls ~/featured-projects
 ```
 
