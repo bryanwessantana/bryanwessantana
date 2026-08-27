@@ -12,6 +12,7 @@
   ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
   ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
   ![Rust](https://skillicons.dev/icons?i=rust&theme=dark)
+  ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)
   ![Python](https://skillicons.dev/icons?i=python&theme=dark)
   ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
   ![C#](https://skillicons.dev/icons?i=cs&theme=dark)
