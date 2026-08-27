@@ -35,8 +35,8 @@
 
 class SoftwareEngineer {
   private readonly name: string = "Bryan Wesley Santana";
-  private readonly location: string = "Curitiba, Paraná, Brazil 🇧🇷";
-  private readonly academic: string = "BYU-Idaho — IT Development (3.95 GPA)";
+  private readonly location: string = "Curitiba - PR, Brazil 🇧🇷";
+  private readonly academic: string = "BYU-Idaho — IT Development (3.98 GPA)";
   private readonly corporateRole: string = "IT Development Specialist & Architect @ Frontall USA";
 
   public aboutMe(): string {
